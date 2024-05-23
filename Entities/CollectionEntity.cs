@@ -6,8 +6,6 @@
 
         public string Name { get; set; }
 
-        public byte[] Image { get; set; }
-
         public Guid PCId { get; set; }
 
         public PCEntity PC { get; set; }
